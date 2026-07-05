@@ -20,16 +20,4 @@ A simple To-Do List application built using Python and Tkinter.
 
 ```bash
 python app.py
----
-
-## So your next actions are:
-1. **Delete** the extra `update READMEfile` line from the README text
-2. Scroll to the **bottom**
-3. In commit message write: **Update README file**
-4. Click **Commit changes**
-
-## After that
-Send me **one screenshot of the repository main page** after commit.  
-Then I’ll tell you the **next step: how to upload your `app.py` code properly and make the project complete**.
-update README file
-
+'''md id="w4vxsl"
