@@ -20,4 +20,4 @@ A simple To-Do List application built using Python and Tkinter.
 
 ```bash
 python app.py
-'''md id="w4vxsl"
+
